@@ -19,5 +19,5 @@ Download/clone the project and run _MainFrame.java_ class.
 #### Example as below:
 <img width="561" alt="Screen Shot 2022-08-27 at 1 54 32 PM" src="https://user-images.githubusercontent.com/78637348/187044287-ad327237-165b-4e04-a586-113c6280bd21.png">
 
-
+#### Note that there are some UI bugs in this program.
 
