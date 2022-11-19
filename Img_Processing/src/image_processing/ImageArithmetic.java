@@ -27,7 +27,7 @@ public class ImageArithmetic extends ImageHandler{
 			for(int y = 0; y < width; y++){
 				int f = imageDataFirstImage[x][y];
 				int s = imageDataSecondImage[x][y];
-				int val = f+s; // testssfdsfsf
+				int val = f+sss; // 
 				finalImage.setRGB(x, y, f+s );
 			}
 		}
