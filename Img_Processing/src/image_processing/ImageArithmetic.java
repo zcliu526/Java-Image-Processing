@@ -6,7 +6,7 @@ public class ImageArithmetic extends ImageHandler{
 	
 //	additional image path extending image handler
 	String image_path2;
-
+	
 	public ImageArithmetic() {
 		super();
 		}
@@ -27,7 +27,7 @@ public class ImageArithmetic extends ImageHandler{
 			for(int y = 0; y < width; y++){
 				int f = imageDataFirstImage[x][y];
 				int s = imageDataSecondImage[x][y];
-				int val = f+s;
+				int val = f+s; // addition
 				finalImage.setRGB(x, y, f+s );
 			}
 		}
