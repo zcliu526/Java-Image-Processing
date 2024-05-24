@@ -4,7 +4,7 @@ This Java desktop application can perform Image Addition/Substraction/Multiplica
 ## Run the program
 Download/clone the project and run _MainFrame.java_ class.
 
-### Main window
+### Main window:
 <img width="463" alt="Screen Shot 2022-08-27 at 1 47 03 PM" src="https://user-images.githubusercontent.com/78637348/187044055-a2a8ea05-5487-4a5e-a8e2-4929e202155d.png">
 
 ### Arithmetic Manipulation
